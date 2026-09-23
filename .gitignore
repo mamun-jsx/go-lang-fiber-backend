@@ -1,0 +1,12 @@
+# Environment files (secrets) - never commit real credentials
+.env
+# Compiled binaries
+/bin/
+*.exe
+# Test / coverage output
+*.out
+coverage.*
+# IDE / OS files
+.idea/
+.vscode/
+.DS_Store
